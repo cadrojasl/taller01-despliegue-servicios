@@ -1,0 +1,11 @@
+# Llaves privadas: NUNCA subir
+*.pem
+*.ppk
+__pycache__/
+*.pyc
+# LaTeX
+informe/*.aux
+informe/*.log
+informe/*.out
+informe/*.toc
+informe/*.synctex.gz
